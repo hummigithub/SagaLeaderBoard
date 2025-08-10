@@ -1,0 +1,10 @@
+name = "SagaLeaderBoard";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "SagaLeaderBoard";
+overview = "Zeigt ein Leaderboard (Spieler-Kills, Zombie-Kills, Tode) mit konfigurierbarem Hintergrund an. Daten werden im profiles-Ordner gespeichert.";
+action = "";
+author = "SagaLeaderBoard";
+version = "1.0.0";
